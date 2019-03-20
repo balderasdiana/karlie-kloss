@@ -1,7 +1,7 @@
 
  <p align="center">
    <a href="https://codepen.io/balderasdiana/pen/mozWaV">
-     <img alt="karlie" title="karlie" src="https://www.wellandgood.com/wp-content/uploads/2017/11/karlie-kloss-vs-show.jpg" width="250">
+     <img alt="karliek" title="karliek" src="https://www.wellandgood.com/wp-content/uploads/2017/11/karlie-kloss-vs-show.jpg" width="250">
    </a>
  </p>
 
