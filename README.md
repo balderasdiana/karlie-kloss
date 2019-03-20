@@ -8,6 +8,6 @@
  ## Why did I build this?
  > This is a page dedicated to a woman who is changing the world for the better especially for females. Also,
    to inspire young girls to apply and learn how to code in the summer!
- 
+ * A Pen created at CodePen.io. You can find this one at https://codepen.io/balderasdiana/pen/mozWaV.
  ## Learn more about Kode With Klossy
  > www.kodewithklossy.com
